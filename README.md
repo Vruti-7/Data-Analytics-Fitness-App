@@ -39,6 +39,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 📌 Clustering: Identified key user groups based on workout habits & engagement.
 📌 Ethical Considerations: Addressed data privacy & cultural relevance.
 
+## 📂 Project Structure  
+Data-Analytics-Fitness-App/
+│── Ass_Task-1(a).ipynb     # Data Exploration
+│── Ass_Task-1(b).ipynb     # Regression & Predictive Modeling
+│── Ass_Task-2(b).ipynb     # Clustering Analysis & Insights
+
 📌 Note
 This project was developed as an academic assignment. It focuses on data-driven decision-making for fitness applications.
 
