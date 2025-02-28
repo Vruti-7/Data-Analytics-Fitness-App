@@ -20,9 +20,9 @@ It helps uncover **health trends**, optimize **exercise routines**, and improve 
 
 ## 📂 Project Structure  
 Data-Analytics-Fitness-App/
-│── Ass_Task-1(a).ipynb # Data Exploration
-│── Ass_Task-1(b).ipynb # Regression & Predictive Modeling
-│── Ass_Task-2(b).ipynb # Clustering Analysis & Insights
+│── Ass_Task-1(a).ipynb     # Data Exploration
+│── Ass_Task-1(b).ipynb     # Regression & Predictive Modeling
+│── Ass_Task-2(b).ipynb     # Clustering Analysis & Insights
 
 ## 🚀 Setup Instructions  
 
