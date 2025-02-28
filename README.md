@@ -18,12 +18,6 @@ It helps uncover **health trends**, optimize **exercise routines**, and improve 
 - **Matplotlib & Seaborn 🎨** – Data visualization  
 - **Scikit-learn 🤖** – Machine learning models  
 
-## 📂 Project Structure  
-Data-Analytics-Fitness-App/
-│── Ass_Task-1(a).ipynb     # Data Exploration
-│── Ass_Task-1(b).ipynb     # Regression & Predictive Modeling
-│── Ass_Task-2(b).ipynb     # Clustering Analysis & Insights
-
 ## 🚀 Setup Instructions  
 
 ### 🔹 1. Install Dependencies  
@@ -34,16 +28,16 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 🔹 2. Open the Jupyter Notebook
   -  jupyter notebook : Open the .ipynb files and execute the analysis.
 
-🏆 Results & Insights
-📌 Regression Analysis: Forecasted user trends based on historical health data.
-📌 Clustering: Identified key user groups based on workout habits & engagement.
-📌 Ethical Considerations: Addressed data privacy & cultural relevance.
-
 ## 📂 Project Structure  
 Data-Analytics-Fitness-App/
 │── Ass_Task-1(a).ipynb     # Data Exploration
 │── Ass_Task-1(b).ipynb     # Regression & Predictive Modeling
 │── Ass_Task-2(b).ipynb     # Clustering Analysis & Insights
+
+🏆 Results & Insights
+📌 Regression Analysis: Forecasted user trends based on historical health data.
+📌 Clustering: Identified key user groups based on workout habits & engagement.
+📌 Ethical Considerations: Addressed data privacy & cultural relevance.
 
 📌 Note
 This project was developed as an academic assignment. It focuses on data-driven decision-making for fitness applications.
